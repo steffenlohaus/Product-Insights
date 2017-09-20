@@ -30,3 +30,4 @@ Why We Decided To Give All Employees $20 per Month for Learning and Development"
 * [Illustrations @ Shopify ("Empty States? More like You-Have-No-Idea-How-Much-Work-Goes-Into-Those States, amirite??")](https://ux.shopify.com/empty-states-more-like-you-have-no-idea-how-much-work-goes-into-those-states-amirite-e0102f58b64e)
 * [Team feedback @ Pivotal Labs ("Get More Personal Feedback – The Speed-Dating Retro")](https://medium.com/product-labs/get-more-personal-feedback-3fa7d7416388)
 * [UX writing @ BlaBlaCar ("Obvious Content, Simple Product")](https://medium.com/blablacar-design/obvious-content-simple-product-8b9eae456047)
+* [Content strategy @ Shopify ("How we structure our content strategy team")](https://ux.shopify.com/how-we-structure-our-content-strategy-team-2e00ea4301a2)
