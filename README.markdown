@@ -34,3 +34,4 @@ Why We Decided To Give All Employees $20 per Month for Learning and Development"
 * [Testing words @ Dropbox ("5 fun ways to test words – How to tell if your writing is any good")](https://medium.com/@jsaito/5-fun-ways-to-test-words-f132af5a8456)
 * [UX writing @ BlaBlaCar ("The power of simple questions")](https://medium.com/blablacar-design/the-power-of-simple-questions-38222ee8f096)
 * [Internationalization @ Dropbox ("Design for internationalization – Build better products for people around the world")](https://medium.com/dropbox-design/design-for-internationalization-24c12ea6b38f)
+* [Design critique @ Pivotal Labs ("Design Critique at Pivotal Labs")](https://content.pivotal.io/blog/design-critique-at-pivotal-labs)
