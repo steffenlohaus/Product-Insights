@@ -36,3 +36,4 @@ Why We Decided To Give All Employees $20 per Month for Learning and Development"
 * [Internationalization @ Dropbox ("Design for internationalization – Build better products for people around the world")](https://medium.com/dropbox-design/design-for-internationalization-24c12ea6b38f)
 * [Design critique @ Pivotal Labs ("Design Critique at Pivotal Labs")](https://content.pivotal.io/blog/design-critique-at-pivotal-labs)
 * [Reading app reviews @ Dropbox ("Are app reviews worth reading? – What I learned from reading thousands of app reviews")](https://medium.com/dropbox-design/are-app-reviews-worth-reading-518d3211872f)
+* [Design principles @ BuzzFeed ("BuzzFeed’s Product Design Principles")](https://medium.com/buzzfeed-design/buzzfeeds-product-design-principles-e7d99b74c46e)
