@@ -39,3 +39,4 @@ Why We Decided To Give All Employees $20 per Month for Learning and Development"
 * [Design principles @ BuzzFeed ("BuzzFeed’s Product Design Principles")](https://medium.com/buzzfeed-design/buzzfeeds-product-design-principles-e7d99b74c46e)
 * [Intuitive, human design @ BlaBlaCar ("How content revolutionised the way we do product design")](https://medium.com/blablacar-design/how-content-revolutionised-the-way-we-do-product-design-cbeb3a3c7ab6)
 * [Data visualization @ SEEK ("Building insightful products")](https://medium.com/seek-blog/building-great-insight-products-5161d044e665)
+* [Avoiding groupthink in meetings @ GV ("Note-and-vote: How to avoid groupthink in meetings")](https://library.gv.com/note-and-vote-how-to-avoid-groupthink-in-meetings-24e829e43295)
