@@ -37,3 +37,4 @@ Why We Decided To Give All Employees $20 per Month for Learning and Development"
 * [Design critique @ Pivotal Labs ("Design Critique at Pivotal Labs")](https://content.pivotal.io/blog/design-critique-at-pivotal-labs)
 * [Reading app reviews @ Dropbox ("Are app reviews worth reading? – What I learned from reading thousands of app reviews")](https://medium.com/dropbox-design/are-app-reviews-worth-reading-518d3211872f)
 * [Design principles @ BuzzFeed ("BuzzFeed’s Product Design Principles")](https://medium.com/buzzfeed-design/buzzfeeds-product-design-principles-e7d99b74c46e)
+* [Intuitive, human design @ BlaBlaCar ("How content revolutionised the way we do product design")](https://medium.com/blablacar-design/how-content-revolutionised-the-way-we-do-product-design-cbeb3a3c7ab6)
