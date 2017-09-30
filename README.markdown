@@ -45,3 +45,4 @@ Why We Decided To Give All Employees $20 per Month for Learning and Development"
 * [Remote design studios @ Pivotal Labs ("How to run a quick design studio workshop remotely")](https://medium.com/product-labs/how-to-run-a-quick-design-studio-workshop-remotely-934ed48e4e31)
 * [Design principles @ Etsy ("Creating Etsy’s Design Principles – Aligning on a shared definition of design excellence")](https://medium.com/etsy-design/creating-etsys-design-principles-4faf31914be3)
 * [Remote user research @ Lecturio ("The Chances and Pitfalls of Remote User Research")](https://www.youtube.com/watch?v=9oRqLVu8vrg)
+* [Atomic design @ carwow ("Building styleguide components using Atomic Design")](https://medium.com/carwow-product-engineering/building-styleguide-components-using-atomic-design-7fb6b6d42f18)
