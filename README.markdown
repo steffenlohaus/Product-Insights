@@ -44,3 +44,4 @@ Why We Decided To Give All Employees $20 per Month for Learning and Development"
 * [Error messages @ Salesforce ("Designing the Not-So-Happy Path")](https://medium.com/salesforce-ux/designing-the-not-so-happy-path-fde484759a54)
 * [Remote design studios @ Pivotal Labs ("How to run a quick design studio workshop remotely")](https://medium.com/product-labs/how-to-run-a-quick-design-studio-workshop-remotely-934ed48e4e31)
 * [Design principles @ Etsy ("Creating Etsy’s Design Principles – Aligning on a shared definition of design excellence")](https://medium.com/etsy-design/creating-etsys-design-principles-4faf31914be3)
+* [Remote user research @ Lecturio ("The Chances and Pitfalls of Remote User Research")](https://www.youtube.com/watch?v=9oRqLVu8vrg)
