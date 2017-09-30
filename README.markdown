@@ -42,3 +42,4 @@ Why We Decided To Give All Employees $20 per Month for Learning and Development"
 * [Avoiding groupthink in meetings @ GV ("Note-and-vote: How to avoid groupthink in meetings")](https://library.gv.com/note-and-vote-how-to-avoid-groupthink-in-meetings-24e829e43295)
 * [UX writing @ GV ("How to integrate copywriting in your startup’s design process")](https://library.gv.com/how-to-integrate-copywriting-in-your-startup-s-design-process-e7abb56e1148)
 * [Error messages @ Salesforce ("Designing the Not-So-Happy Path")](https://medium.com/salesforce-ux/designing-the-not-so-happy-path-fde484759a54)
+* [Remote design studios @ Pivotal Labs ("How to run a quick design studio workshop remotely")](https://medium.com/product-labs/how-to-run-a-quick-design-studio-workshop-remotely-934ed48e4e31)
