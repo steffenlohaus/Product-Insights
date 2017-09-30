@@ -47,3 +47,4 @@ Why We Decided To Give All Employees $20 per Month for Learning and Development"
 * [Remote user research @ Lecturio ("The Chances and Pitfalls of Remote User Research")](https://www.youtube.com/watch?v=9oRqLVu8vrg)
 * [Atomic design @ carwow ("Building styleguide components using Atomic Design")](https://medium.com/carwow-product-engineering/building-styleguide-components-using-atomic-design-7fb6b6d42f18)
 * [Design roles @ BuzzFeed ("BuzzFeed Product Design Roles 2.0")](https://medium.com/buzzfeed-design/buzzfeed-product-design-roles-2-0-6fe445078a74)
+* [Design principles for enterprise software @ Facebook ("Facebook’s Four Business Design Principles for Crafting Elegant Tools")](https://medium.com/elegant-tools/facebook-s-four-business-design-principles-for-crafting-elegant-tools-581a7055dee8)
