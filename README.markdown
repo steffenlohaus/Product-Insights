@@ -43,3 +43,4 @@ Why We Decided To Give All Employees $20 per Month for Learning and Development"
 * [UX writing @ GV ("How to integrate copywriting in your startup’s design process")](https://library.gv.com/how-to-integrate-copywriting-in-your-startup-s-design-process-e7abb56e1148)
 * [Error messages @ Salesforce ("Designing the Not-So-Happy Path")](https://medium.com/salesforce-ux/designing-the-not-so-happy-path-fde484759a54)
 * [Remote design studios @ Pivotal Labs ("How to run a quick design studio workshop remotely")](https://medium.com/product-labs/how-to-run-a-quick-design-studio-workshop-remotely-934ed48e4e31)
+* [Design principles @ Etsy ("Creating Etsy’s Design Principles – Aligning on a shared definition of design excellence")](https://medium.com/etsy-design/creating-etsys-design-principles-4faf31914be3)
