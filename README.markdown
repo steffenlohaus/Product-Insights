@@ -1,5 +1,5 @@
 # Product Stories
-## DESIGN
+## PRODUCT DESIGN
 
 * [Building analytic apps @ Salesforce ("Transforming Data to Insights")](https://medium.com/salesforce-ux/transforming-data-to-insights-773d25acd53f)
 * [Adapting Material Design @ Google ("How Google Designers Adapt Material")](https://medium.com/google-design/how-google-designers-adapt-material-e2818ad09d7d)
@@ -22,7 +22,7 @@
 * [Atomic design @ carwow ("Building styleguide components using Atomic Design")](https://medium.com/carwow-product-engineering/building-styleguide-components-using-atomic-design-7fb6b6d42f18)
 * [Design principles for enterprise software @ Facebook ("Facebook’s Four Business Design Principles for Crafting Elegant Tools")](https://medium.com/elegant-tools/facebook-s-four-business-design-principles-for-crafting-elegant-tools-581a7055dee8)
 
-## CONTENT
+## UXWRITING & CONTENT
 
 * [UX writing @ Microsoft ("Take the Time to Use Fewer Words")](https://medium.com/microsoft-design/take-the-time-to-use-fewer-words-450e650cdaf7)
 * [UX writing @ Dropbox ("Design words with data")](https://medium.com/dropbox-design/design-words-with-data-fe3c525994e7)
@@ -56,7 +56,7 @@ Why We Decided To Give All Employees $20 per Month for Learning and Development"
 * [Reading app reviews @ Dropbox ("Are app reviews worth reading? – What I learned from reading thousands of app reviews")](https://medium.com/dropbox-design/are-app-reviews-worth-reading-518d3211872f)
 * [Remote user research @ Lecturio ("The Chances and Pitfalls of Remote User Research")](https://www.youtube.com/watch?v=9oRqLVu8vrg)
 
-## MANAGEMENT
+## PRODUCT MANAGEMENT
 
 * [Project planning @ Intercom ("6 weeks: why it’s the Goldilocks of product timeframes")](https://medium.com/intercom-inside/6-weeks-why-its-the-goldilocks-of-product-timeframes-c7b14c493993)
 * [Handling bugs @ Songkick ("Experimenting with a Zero Bug policy")](https://devblog.songkick.com/experimenting-with-a-zero-bug-policy-3281490dbc8b)
